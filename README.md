@@ -11,11 +11,11 @@
  
 ## Themes:
   • IP/Networking/VPN/SDN (access, distribution & core) \
-  • Wireless 5G Network (RAN)  \
-  • Network slicing \ 
-  • Mobile Edge Computing \ 
-  • Satellite Communication (GEO, MEO, LEO)  \
-  • A consultancy primarily being software enabler/provider (SaaS) \
+  • Wireless 5G Network (RAN)
+  • Network slicing
+  • Mobile Edge Computing
+  • Satellite Communication (GEO, MEO, LEO)
+  • A consultancy primarily being software enabler/provider (SaaS)
 
 
 ## Development
@@ -24,7 +24,7 @@ This project is built with:  \
 • React  \
 • Tailwind CSS  \
 • shadcn-ui  \
-• Vite \
+• Vite
 
 
 ## Repository File Structure:
