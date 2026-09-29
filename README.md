@@ -24,3 +24,5 @@ TypeScript
 React
 shadcn-ui
 Tailwind CSS
+
+## Repository File Structure:
