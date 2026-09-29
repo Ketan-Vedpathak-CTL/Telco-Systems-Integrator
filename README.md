@@ -3,11 +3,11 @@
 ✦ This is the code repository for the website that speaks to the capabilities and services offered by me & my team as an IT Systems Integrator primarily in the Telecommunications sector/industry.
 
 ## Sitemap:
-  Home page
-  ↳ About page
-  ↳ Products & Services page
-  ↳ Contact Page 
-
+  Home page \n
+  ↳ About page \n
+  ↳ Products & Services page \n
+  ↳ Contact Page  \n
+ 
 ## Themes:
   • IP/Networking/VPN/SDN (access, distribution & core).
   • Wireless 5G Network (RAN).
