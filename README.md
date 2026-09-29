@@ -28,7 +28,7 @@ This project is built with:  \
 
 
 ## Repository File Structure:
-	README.md	\
+	README.md	
 src/	App.css	\
 src/	App.tsx	\
 src/pages/	About.tsx	\
@@ -86,4 +86,4 @@ src/components/ui/	toaster.tsx	\
 src/components/ui/	toggle-group.tsx	\
 src/components/ui/	toggle.tsx	\
 src/components/ui/	tooltip.tsx	\
-src/components/ui/	use-toast.ts	\<img width="283" height="945" alt="image" src="https://github.com/user-attachments/assets/5a6227f6-ea9a-4899-8390-48c5be09c23d" />
+src/components/ui/	use-toast.ts	
