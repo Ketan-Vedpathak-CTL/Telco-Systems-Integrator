@@ -11,10 +11,10 @@
  
 ## Themes:
   • IP/Networking/VPN/SDN (access, distribution & core) \
-  • Wireless 5G Network (RAN)
-  • Network slicing
-  • Mobile Edge Computing
-  • Satellite Communication (GEO, MEO, LEO)
+  • Wireless 5G Network (RAN)  \
+  • Network slicing  \
+  • Mobile Edge Computing  \
+  • Satellite Communication (GEO, MEO, LEO)  \
   • A consultancy primarily being software enabler/provider (SaaS)
 
 
